@@ -1,6 +1,6 @@
 # This repo consists of code for developing configurable spreadsheet or database. 
 --> Technology stack can be used : python, javascript
-Spreadsheet shall have below features
+- Spreadsheet shall have below features
 - custom columns type as below i.e. 
   - boolean
   - multi-select column
