@@ -2,16 +2,18 @@
 --> Technology stack can be used : python, javascript
 - Code shall provide provision to create spreadsheet.
 - 
-- Spreadsheet shall have below features
-- 
-- custom columns type as below i.e. 
+- Spreadsheet shall have below features. 
+- Code should allow to generate custom columns type as below i.e. 
   - boolean
   - multi-select column
+  - Single-select column out of given multiple options
   - text
   - numbers
   - formulae based columns
   - calendar date/time
   - URL/Links
+  - 
+  - 
 - each column shall have selection for default values
 - Spreadsheet shall have below feature.
   - Sorting & filtering
